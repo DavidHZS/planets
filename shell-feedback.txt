@@ -15,7 +15,7 @@ neg: A bit too basic for me.
 pos: Good to have a common data set to work with all together.
 neg: Problems with Windows.
 neg: Some commands didn't work for me.
-pos: Unix. Basic knowledge. Easy to get around.
+pos: Unix. Basic knowledge. Easy to get around. hahahaha
 neg: Missing introduction on why and how all this language can be used later.
 pos: The beginning moved at an easy pace that was sinmple to follow. Good intro to the system.
 neg: Less material to cover, to avoid the 'rush' feeling.
@@ -56,3 +56,4 @@ pos: Good workflow, issues of individuals did not interrupt the class much
 pos: Could catch on easily.
 pos: Good answers to questions.
 pos: Answering questions nicely.
+neg: idiots
